@@ -4,12 +4,8 @@
 <br />
 <br />
 
-<table border=0>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=huidbk&show_icons=true&count_private=true&theme=vue-light&hide_border=true" alt="HuiDBK's GitHub stats" style="zoom:100%;" align="left"/></td>
-    <td><img src="https://4sdvg7tqbv.us.aircode.run/juejin?uid=817692384431470&hide_border=true" alt="HuiDBK的掘金数据" style="zoom:100%;" align="left"/></td>
-  </tr>
-</table>
+<img height="130px" src="https://github-readme-stats.vercel.app/api?username=TOTHTOT&hide_title=true&show_icons=true&hide=issues&include_all_commits=true&count_private=true&theme=graywhite&hide_border=true&bg_color=45,ff7979,ffd479,fffc79,73fa79" alt="Xuenew's GitHub Stats"> <img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs?username=TOTHTOT&hide_title=true&layout=compact&theme=graywhite&hide_border=true&bg_color=45,fffc79,73fa79,75f0db" alt="Most Used Languages">
+
 
 
 <img align="center" src="./images/github-contribution-grid-snake.svg" style="max-width: 90%;">

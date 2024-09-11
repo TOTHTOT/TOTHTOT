@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+# https://img.shields.io/badge/ 这个固定的，后面类似 CSDN可以改成任何你想的，加-name-颜色.svg
+![](https://img.shields.io/badge/TOTHTOT-blue.svg)] 
 <!--
 **TOTHTOT/TOTHTOT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a>

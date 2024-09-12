@@ -2,7 +2,7 @@
  * @Author: TOTHTOT 37585883+TOTHTOT@users.noreply.github.com
  * @Date: 2024-09-11 17:47:46
  * @LastEditors: TOTHTOT 37585883+TOTHTOT@users.noreply.github.com
- * @LastEditTime: 2024-09-12 10:39:57
+ * @LastEditTime: 2024-09-12 10:36:57
  * @FilePath: \undefinedd:\Documents\GitHub\TOTHTOT\README.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
@@ -18,9 +18,9 @@
   <img src="https://raw.githubusercontent.com/TOTHTOT/TOTHTOT/output/github-contribution-grid-snake.svg" alt="TOTHTOT's GitHub Activity Graph">
 </div>
 
-<h3 align="center">⭐ Most Starred Repos</h3>
+<!-- <h3 align="center">⭐ Most Starred Repos</h3>
 
-<!-- <div align="center">
+<div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TOTHTOT&repo=REPO_1&theme=graywhite&hide_border=true" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TOTHTOT&repo=REPO_2&theme=graywhite&hide_border=true" />
 </div> -->
